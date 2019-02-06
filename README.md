@@ -3,15 +3,20 @@
 ## DATASET
 disponible sur https://www.kaggle.com/c/histopathologic-cancer-detection
 
+
+
 ## INFOS
 Prototype de pre process d'images pour un CNN
 
 
+
 **modelDirectPreProcess.py** :
+
 Utilisation d'un dataframe qui va aggreger les chemins d'accès et leurs noms et leurs labels correspondant
 
 
 **modelKerasPreProcess.py** :
+
 Utilisation du dataGenerator fournit par Keras. Nécessite d'avoir une structure de data telle quelle :
 
 -Dataset
