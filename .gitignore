@@ -1,0 +1,12 @@
+
+\.idea/
+
+train/
+
+histopathologic-cancer-detection\.zip
+
+Model\.hdf5
+
+test\.zip
+
+train\.zip
